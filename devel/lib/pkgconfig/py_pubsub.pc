@@ -1,0 +1,8 @@
+prefix=/home/jetauto/project1_ws/devel
+
+Name: py_pubsub
+Description: Description of py_pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

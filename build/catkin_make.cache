@@ -1,0 +1,2 @@
+py_pubsub
+-DCATKIN_DEVEL_PREFIX=/home/jetauto/project1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetauto/project1_ws/install -G Unix Makefiles
